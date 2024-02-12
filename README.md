@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,premierepro,c#,html,css,vscode,github,figma," />
+    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,premiere,c#,html,css,vscode,github,figma," />
     <img src="https://skillicons.dev/icons?i=php,python,javascript,c,java,mysql,dotnet,arduino,visualstudio" /><br>
 </div>
 

@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pinterest.ph/pin/5981411996091139/)](https://icee32.io)
 <h1 align="center">🧊Me🧊 Ice</h1>
 <h3 align="center">Random guy learning coding</h3>
-(img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/663552-pixel-art-animation-gif")
+(img align="right" alt="Coding" width="400" src="https://78.media.tumblr.com/50d43db43843a7dc2fbb93c660a1d0dc/tumblr_ozar2dfRQI1rh3rypo1_1280.gif")
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icee32" alt="icee32" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -12,13 +12,8 @@
 
 - 🤝 I’m looking for help with **Connecting gps to IOT sensors**
 
-- 👨‍💻 All of my projects are available at [coming up](coming up)
-
-- 💬 Ask me about **coming up**
-
 - 📫 How to reach me **icesarmiento32@gmail.com**
 
-- 📄 Know about my experiences [coming up](coming up)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

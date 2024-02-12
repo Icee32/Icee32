@@ -3,7 +3,7 @@
 <h3 align="center">Random guy learning coding</h3>
 (img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/663552-pixel-art-animation-gif")
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icee32" alt="icee32" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icee32&show_icons=true&theme=dark&text_color=20d934&locale=en&layout=compact" alt="icee32" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

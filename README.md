@@ -10,15 +10,15 @@
 
 <div align="center">
  
-- 🔭 I’m currently working on **a Website**
+🔭 I’m currently working on **a Website**
  
-- 🌱 I’m currently learning **HTMLS, CSS, DATABASE**
+🌱 I’m currently learning **HTMLS, CSS, DATABASE**
 
-- 🤝 I’m looking for help with **Connecting gps to IOT sensors**
+🤝 I’m looking for help with **Connecting gps to IOT sensors**
 
-- 📫 How to reach me **icesarmiento32@gmail.com**
+📫 How to reach me **icesarmiento32@gmail.com**
 
-- ⚡ Fun fact **Boom**
+⚡ Fun fact **Boom**
 
  </div>
  

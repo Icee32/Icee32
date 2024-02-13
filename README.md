@@ -53,11 +53,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icee32&show_icons=true&theme=dark&text_color=20d934&locale=en&layout=compact" alt="icee32" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icee32&show_icons=true&theme=dark&text_color=20e334&locale=en" alt="icee32" /></p>
-
+  <p><img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icee32&show_icons=true&theme=dark&text_color=20d934&locale=en&layout=compact" alt="icee32" /></p>
+  <p>&nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=icee32&show_icons=true&theme=dark&text_color=20e334&locale=en" alt="icee32" /></p>
   <br/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icee32&theme=dark" alt="icee32" /></p>
+  <p><img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icee32&theme=dark" alt="icee32" /></p>
   <br/>
 </div>
 

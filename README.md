@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/icee32/icee32/output/github-contribution-grid-snake.svg" />
+  
   
   <br/><br/><br/>
 </div>
@@ -53,7 +53,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icee32&show_icons=true&theme=dark&text_color=20d934&locale=en&layout=compact" alt="icee32" /></p>
+  <p><img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icee32&show_icons=true&theme=dark&text_color=20d934&locale=en&layout=compact" alt="icee32" /></p>
   <p>&nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=icee32&show_icons=true&theme=dark&text_color=20e334&locale=en" alt="icee32" /></p>
   <br/>
   <p><img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icee32&theme=dark" alt="icee32" /></p>

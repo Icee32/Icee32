@@ -12,7 +12,7 @@
  
 🔭 I’m currently working on **a Website**
  
-🌱 I’m currently learning **HTMLS, CSS, DATABASE**
+🌱 I’m currently learning **HTMLS, CSS, JS, PHP**
 
 🤝 I’m looking for help with **Connecting gps to IOT sensors**
 

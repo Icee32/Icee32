@@ -14,7 +14,7 @@
  
 🌱 I’m currently learning **HTMLS, CSS, JS, PHP**
 
-🤝 I’m looking for help with **Connecting gps to IOT sensors**
+🤝 I’m looking for help with **Creating a Game using Pixel Arts**
 
 📫 How to reach me **icesarmiento32@gmail.com**
 
